@@ -1,5 +1,5 @@
 
-#include "lcd20x4iic.h"
+#include <lcd20x4iic.h>
 
 LCD_20X4_IIC lcd(0x27);
 

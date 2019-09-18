@@ -17,7 +17,6 @@
 #define LCD_CHAR_ESCAPE     0x1b
 #define LCD_CHAR_SPACE      0x20
 
-
 class LCD_20X4_IIC
 {
     public:
