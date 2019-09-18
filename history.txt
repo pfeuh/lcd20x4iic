@@ -1,0 +1,15 @@
+
+version 1.02
+
+carriage return test added.
+status led's library removed.
+some cosmetic.
+
+version 1.01
+
+Switched from ".ino" to ".cpp"
+
+version 1.00
+
+First working version
+
